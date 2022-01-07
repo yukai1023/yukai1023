@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 , I'm Yukai
+![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 
 <!--
 **yukai1023/yukai1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
