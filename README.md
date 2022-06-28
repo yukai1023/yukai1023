@@ -1,6 +1,7 @@
 ### <p align="center"> Hi there 👋 , I'm Yukai 😄 </p>
 
-<p align="center"> My goal is to become a front-end engineer, So I'm working on it until I reach that. </p> 
+<p align="center">  I'm a Front-end Developer right now. </p> 
+<p align="center">  If there has any question, please contact me by email. Thanks. </p> 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukai1023&layout=compact&hide_border=true&langs_count=10"/>
 </div>
